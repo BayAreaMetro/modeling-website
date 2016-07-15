@@ -1,0 +1,33 @@
+# Dependencies
+markdown: kramdown
+kramdown:
+  extensions: ["tables", "no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
+
+rouge:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            MTC
+tagline:          'Metropolitan Transportation Commission'
+url:              http://metropolitantransportationcommission.github.io
+shorturl:         metropolitantransportationcommission.github.io
+
+author:
+  name:           'David Ory'
+  url:            https://github.com/DavidOry
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/MetropolitanTransportationCommission/MetropolitanTransportationCommission.github.io/tree/master
+  
+
+# Allow URL Redirects: 
+#  * https://help.github.com/articles/redirects-on-github-pages
+gems:
+  - jekyll-redirect-from
