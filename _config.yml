@@ -10,9 +10,9 @@ permalink:        pretty
 
 # Setup
 title:            MTC Analytical Services Project Pages
-tagline:          'Metropolitan Transportation Commission'
-url:              http://metropolitantransportationcommission.github.io
-shorturl:         metropolitantransportationcommission.github.io
+tagline:          'Bay Area Metro'
+url:              http://bayareametro.github.io
+shorturl:         bayareametro.github.io
 
 author:
   name:           'David Ory'
@@ -24,7 +24,7 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/MetropolitanTransportationCommission/MetropolitanTransportationCommission.github.io/tree/master
+  repo:           https://github.com/BayAreaMetro/BayAreaMetro.github.io/tree/master
   
 
 # Allow URL Redirects: 
