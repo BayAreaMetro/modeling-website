@@ -49,7 +49,7 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 12pt;
+  font-size: 11pt;
   line-height: 1.2;
 }
 @media (min-width: 38rem) {
@@ -96,15 +96,15 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  margin-top: 1.3rem;
+  font-size: 1.3rem;
 }
 h4, h5, h6 {
   margin-top: 1rem;
@@ -220,6 +220,7 @@ img {
 
 /* Tables */
 table {
+  font-size: 0.9rem;
   margin-bottom: 1rem;
   border: 1px solid #e5e5e5;
   border-collapse: collapse;
