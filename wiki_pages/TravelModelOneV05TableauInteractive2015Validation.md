@@ -11,11 +11,9 @@ tbd
 
 ## Roadway (PeMS)
 
-<iframe src="https://public.tableau.com/views/TravelModelOnev0_5RoadwayPeMSValidation/StationDashboard?:embed=y&:display_count=yes" width="800" height="600"></iframe>
-
 <script type='text/javascript' src='https://online.tableau.com/javascripts/api/viz_v1.js'></script> 
-<div class='tableauPlaceholder' style='width:800; height:600;'> 
-<object class='tableauViz' width='800' height='600' style='display:none;'>
+<div class='tableauPlaceholder' style='width:1024; height:800;'> 
+<object class='tableauViz' width='1024' height='800' style='display:none;'>
    <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
    <param name='site_root' value='' /> 
    <param name='name' value='TravelModelOnev0_5RoadwayPeMSValidation&#47;StationDashboard' /> 
