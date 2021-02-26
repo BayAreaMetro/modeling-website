@@ -9,14 +9,10 @@ rouge:         true
 permalink:        pretty
 
 # Setup
-title:            MTC Analytical Services Project Pages
+title:            MTC/ABAG Forecasting, Modeling & Surveys
 tagline:          'Bay Area Metro'
 url:              http://bayareametro.github.io
 shorturl:         bayareametro.github.io
-
-author:
-  name:           'David Ory'
-  url:            https://github.com/DavidOry
 
 paginate:         1
 
@@ -25,9 +21,9 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/BayAreaMetro/BayAreaMetro.github.io/tree/master
-  
 
-# Allow URL Redirects: 
+
+# Allow URL Redirects:
 #  * https://help.github.com/articles/redirects-on-github-pages
-gems:
+plugins:
   - jekyll-redirect-from
