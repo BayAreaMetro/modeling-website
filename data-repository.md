@@ -253,7 +253,7 @@ permalink: /data-repository/
     <td> 2035_TM152_FBP_Plus_20 </td>
     <td> 2035 </td>
     <td> <a href="https://github.com/BayAreaMetro/modeling-website/wiki/TravelModel1.5">1.5.2</a> </td>
-    <td rowspan=2> Final Blueprint </td>
+    <td rowspan=2> <a href="https://mtcdrive.box.com/v/pba-2050-tazdata">Final Blueprint</a> </td>
     <td> Year 2035 </td>
     <td> 50 pct </td>
   </tr>
