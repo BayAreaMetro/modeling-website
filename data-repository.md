@@ -242,7 +242,7 @@ permalink: /data-repository/
     <td rowspan=4> <i>Data not available yet; land use data undergoing review</i> </td>
   </tr>
   <tr>
-    <td> 2015_TM152_IPA_16 </td>
+    <td> 2015_TM152_IPA_17 </td>
     <td> 2015 </td>
     <td> <a href="https://github.com/BayAreaMetro/modeling-website/wiki/TravelModel1.5">1.5.2</a> </td>
     <td> <a href="https://github.com/BayAreaMetro/petrale/tree/master/applications/travel_model_lu_inputs/2015">Census via petrale</a> </td>
