@@ -232,17 +232,17 @@ permalink: /data-repository/
   </tr>
   <tr>
   <!-- 2021 RTP/SCS Final Blueprint -->
-    <td> 2005_TM152_IPA_03 </td>
+    <td> <a href="https://mtcdrive.box.com/s/03tu6ge5d086jb4vs54avgumuya209un">2005_TM152_IPA_03</a> </td>
     <td> 2005 </td>
     <td> <a href="https://github.com/BayAreaMetro/modeling-website/wiki/TravelModel1.5">1.5.2</a> </td>
     <td rowspan=4> 2021 RTP/SCS </td>
     <td> </td>
     <td> Year 2005 </td>
     <td> 50 pct </td>
-    <td rowspan=4> <i>Data not available yet; land use data undergoing review</i> </td>
+    <td rowspan=4> <i> Adopted 2021 RTP/SCS </i> </td>
   </tr>
   <tr>
-    <td> 2015_TM152_IPA_17 </td>
+    <td> <a href="https://mtcdrive.box.com/s/ger6skhn56atcexd1mg0v2u05p7q77am">2015_TM152_IPA_17</a> </td>
     <td> 2015 </td>
     <td> <a href="https://github.com/BayAreaMetro/modeling-website/wiki/TravelModel1.5">1.5.2</a> </td>
     <td> <a href="https://github.com/BayAreaMetro/petrale/tree/master/applications/travel_model_lu_inputs/2015">Census via petrale</a> </td>
@@ -250,7 +250,7 @@ permalink: /data-repository/
     <td> 50 pct </td>
   </tr>
   <tr>
-    <td> 2035_TM152_FBP_Plus_24 </td>
+    <td> <a href="https://mtcdrive.box.com/s/guv8xh2scwjvzbo6742z2uus9n7hqfnq">2035_TM152_FBP_Plus_24</a> </td>
     <td> 2035 </td>
     <td> <a href="https://github.com/BayAreaMetro/modeling-website/wiki/TravelModel1.5">1.5.2</a> </td>
     <td rowspan=2> <a href="https://mtcdrive.box.com/v/pba-2050-tazdata">Final Blueprint</a> </td>
@@ -258,7 +258,7 @@ permalink: /data-repository/
     <td> 50 pct </td>
   </tr>
   <tr>
-    <td> 2050_TM152_FBP_PlusCrossing_24 </td>
+    <td> <a href="https://mtcdrive.box.com/s/214dvoo950bx5ykd0369eof0iy747wi9">2050_TM152_FBP_PlusCrossing_24</a> </td>
     <td> 2050 </td>
     <td> <a href="https://github.com/BayAreaMetro/modeling-website/wiki/TravelModel1.5">1.5.2</a> </td>
     <td> Year 2050 </td>
