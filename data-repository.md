@@ -239,7 +239,7 @@ permalink: /data-repository/
     <td> </td>
     <td> Year 2005 </td>
     <td> 50 pct </td>
-    <td rowspan=4> <i> Adopted 2021 RTP/SCS </i> </td>
+    <td rowspan=4> Adopted 2021 RTP/SCS </td>
   </tr>
   <tr>
     <td> <a href="https://mtcdrive.box.com/s/ger6skhn56atcexd1mg0v2u05p7q77am">2015_TM152_IPA_17</a> </td>
