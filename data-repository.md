@@ -264,5 +264,8 @@ permalink: /data-repository/
     <td> Year 2050 </td>
     <td> 50 pct </td>
   </tr>
+  <tr>
+    <td colspan="8">Model resources for <a href="https://planbayarea.org/technical-resources/plan-bay-area-2050-plus">Plan Bay Area 2050+</a>, the 2026 RTP/SCS, can be found in the <a href="https://planbayarea.org/technical-resources/plan-bay-area-2050-plus/partner-resources">PBA50+ Partner Resources</a>, in the section on <strong>Forecast and Modeling Data</strong></td>
+  </tr>
   </tbody>
 </table>
